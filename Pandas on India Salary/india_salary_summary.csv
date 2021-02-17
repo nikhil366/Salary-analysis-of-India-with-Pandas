@@ -1,0 +1,301 @@
+Salary/Month,Education,Title,Gender,Company Name
+567595.43,Doctoral degree,Research Scientist,Male,Reliance Inds.
+538909.28,Master's degree,Data Analyst,Male,TCS
+335279.91,Master's degree,Data Analyst,Male,HDFC Bank
+332343.61,Master's degree,Data Engineer,Male,ITC
+326373.19,Master's degree,Software Engineer,Male,H D F C
+316285.74,Bachelor's degree,Data Scientist,Male,Hind. Unilever
+315981.05,Bachelor's degree,Data Scientist,Male,Maruti Suzuki
+307899.46,Bachelor's degree,Product/Project Manager,Male,Infosys
+303427.55,Bachelor's degree,Business Analyst,Male,O N G C
+302377.73,I prefer not to answer,Data Analyst,Male,St Bk of India
+299494.17,Doctoral degree,Research Scientist,Male,ICICI Bank
+297608.92,Master's degree,Data Scientist,Male,Kotak Mah. Bank
+294580.02,Master's degree,Data Scientist,Female,Coal India
+292671.62,Master's degree,Statistician,Female,Larsen & Toubro
+286347.05,High School,Business Analyst,Male,I O C L
+286213.86,Master's degree,Other,Male,Bharti Airtel
+284720.43,Bachelor's degree,Data Scientist,Male,Axis Bank
+278569.21,Bachelor's degree,Product/Project Manager,Male,NTPC
+276434.22,Doctoral degree,Research Scientist,Female,Sun Pharma.Inds.
+274550.25,Doctoral degree,Other,Male,Hind.Zinc
+274190.27,Master's degree,Data Scientist,Male,Wipro
+273771.21,Master's degree,Data Scientist,Male,HCL Technologies
+273702.71,Master's degree,Business Analyst,Male,Vedanta
+270672.63,Master's degree,Software Engineer,Male,Tata Motors
+270324.91,Professional degree,Data Analyst,Male,UltraTech Cem.
+267992.59,Master's degree,Data Scientist,Male,Asian Paints
+265784.56,Master's degree,Data Scientist,Male,Power Grid Corpn
+265463.46,Master's degree,Data Scientist,Male,NHPC Ltd
+264074.6,Master's degree,Software Engineer,Female,Power Fin.Corpn.
+261366.14,Master's degree,Software Engineer,Not Mentioned,United Breweries
+260297.66,Master's degree,Other,Male,Oil India
+259927.11,Bachelor's degree,Software Engineer,Male,Rural Elec.Corp.
+259684.88,Professional degree,Other,Male,NHPC Ltd
+258588.39,Master's degree,Data Scientist,Male,Power Fin.Corpn.
+258364.22,Master's degree,Data Scientist,Male,United Breweries
+257540.09,Master's degree,Data Scientist,Male,Oil India
+257124.44,Master's degree,Product/Project Manager,Male,Rural Elec.Corp.
+253269.44,Master's degree,Business Analyst,Male,GIIT Solutions
+251935.01,Master's degree,Software Engineer,Male,Reliance Inds.
+251685.16,Professional degree,Data Scientist,Male,TCS
+250595.39,Professional degree,Product/Project Manager,Male,HDFC Bank
+250408.49,Doctoral degree,Other,Male,ITC
+250339.35,Doctoral degree,Other,Female,H D F C
+250317.93,Master's degree,Research Scientist,Male,Hind. Unilever
+250122.04,Master's degree,Data Scientist,Male,Maruti Suzuki
+249375.02,Master's degree,Product/Project Manager,Male,Infosys
+249293.3,Master's degree,Data Analyst,Male,O N G C
+248895.77,Master's degree,Software Engineer,Male,St Bk of India
+248718.64,Master's degree,Software Engineer,Male,ICICI Bank
+248434.39,Bachelor's degree,Data Scientist,Male,Kotak Mah. Bank
+247254.61,Bachelor's degree,Data Scientist,Male,Coal India
+246305.62,Bachelor's degree,Data Scientist,Male,Larsen & Toubro
+244687.81,Bachelor's degree,Product/Project Manager,Male,I O C L
+242742.85,Bachelor's degree,Data Analyst,Male,Bharti Airtel
+241286.42,Bachelor's degree,DBA/Database Engineer,Male,Axis Bank
+241211.17,Bachelor's degree,Software Engineer,Male,NTPC
+240846.3,Bachelor's degree,Software Engineer,Male,Sun Pharma.Inds.
+240019.1,Bachelor's degree,Software Engineer,Not Mentioned,Hind.Zinc
+239426.36,Bachelor's degree,Other,Male,Wipro
+238879.2,Professional degree,Research Scientist,Male,HCL Technologies
+238803.56,Professional degree,Data Scientist,Male,Vedanta
+238551.88,Professional degree,Product/Project Manager,Male,Tata Motors
+238501.05,Professional degree,Product/Project Manager,Male,UltraTech Cem.
+238479.28,Professional degree,Business Analyst,Male,Asian Paints
+237837.73,Professional degree,Other,Male,Power Grid Corpn
+237708.83,I prefer not to answer,Data Scientist,Male,NHPC Ltd
+237344.41,Doctoral degree,Other,Male,Power Fin.Corpn.
+236833.82,Master's degree,Data Scientist,Male,United Breweries
+236200.92,Master's degree,Data Scientist,Male,Oil India
+234865.2,Master's degree,Product/Project Manager,Male,Rural Elec.Corp.
+234848.11,Master's degree,Other,Male,GIIT Solutions
+233944.48,Bachelor's degree,Data Scientist,Male,Rural Elec.Corp.
+233464.63,Bachelor's degree,Data Scientist,Male,GIIT Solutions
+233357.28,Bachelor's degree,Data Scientist,Male,GIIT Solutions
+232702.58,Bachelor's degree,Software Engineer,Male,Reliance Inds.
+232486.72,Bachelor's degree,Software Engineer,Male,TCS
+232007.77,I prefer not to answer,Data Scientist,Male,HDFC Bank
+231712.8,I prefer not to answer,Other,Female,ITC
+231652.13,Doctoral degree,Research Scientist,Male,H D F C
+231592.25,Doctoral degree,Other,Female,Hind. Unilever
+231306.04,Master's degree,Research Scientist,Male,Maruti Suzuki
+231104.97,Master's degree,Data Scientist,Male,Infosys
+230906.51,Master's degree,Data Scientist,Male,O N G C
+230827.12,Master's degree,Data Scientist,Male,St Bk of India
+230627.21,Master's degree,Data Scientist,Male,ICICI Bank
+230543.46,Master's degree,Business Analyst,Male,Kotak Mah. Bank
+230459,Master's degree,Business Analyst,Male,Coal India
+230377.83,Master's degree,Software Engineer,Male,Larsen & Toubro
+230239.98,Master's degree,Other,Male,I O C L
+230149.28,Bachelor's degree,Product/Project Manager,Male,Bharti Airtel
+229060.63,Bachelor's degree,Software Engineer,Male,Axis Bank
+228615.61,Bachelor's degree,Other,Male,NTPC
+228513.4,Professional degree,Other,Male,Sun Pharma.Inds.
+228207.86,Doctoral degree,Research Scientist,Male,Hind.Zinc
+227318.9,Doctoral degree,Data Scientist,Male,Wipro
+227180.76,Master's degree,Data Scientist,Male,HCL Technologies
+227080.5,Master's degree,Data Scientist,Male,Vedanta
+226357.33,Master's degree,Data Scientist,Male,Tata Motors
+224439.97,Master's degree,Data Scientist,Male,UltraTech Cem.
+224035.85,Master's degree,Product/Project Manager,Male,Asian Paints
+223852.35,Master's degree,Product/Project Manager,Male,Power Grid Corpn
+223706.4,Master's degree,Product/Project Manager,Male,GIIT Solutions
+223360,Master's degree,Product/Project Manager,Male,Reliance Inds.
+222408.25,Master's degree,Software Engineer,Male,TCS
+222091,Master's degree,Software Engineer,Male,HDFC Bank
+221188.58,Master's degree,Software Engineer,Male,ITC
+221049.32,Master's degree,Software Engineer,Male,H D F C
+220788.36,Master's degree,Software Engineer,Male,Hind. Unilever
+220788.36,Master's degree,Other,Male,Maruti Suzuki
+220744.85,Master's degree,Other,Male,Infosys
+220410.03,Bachelor's degree,Research Scientist,Not Mentioned,O N G C
+220356.48,Bachelor's degree,Data Scientist,Male,St Bk of India
+220352.22,Bachelor's degree,Data Scientist,Male,ICICI Bank
+220280.3,Bachelor's degree,Data Scientist,Male,Kotak Mah. Bank
+220246.26,Bachelor's degree,Product/Project Manager,Male,Coal India
+219932.32,Bachelor's degree,Data Analyst,Male,Larsen & Toubro
+219804.34,Bachelor's degree,Software Engineer,Male,I O C L
+219712.35,Bachelor's degree,Software Engineer,Female,Bharti Airtel
+218793.75,Professional degree,Business Analyst,Male,Axis Bank
+218677.76,Professional degree,Software Engineer,Male,NTPC
+218206.04,Doctoral degree,Research Scientist,Male,Sun Pharma.Inds.
+217979.35,Doctoral degree,Data Scientist,Male,Hind.Zinc
+217962.02,Doctoral degree,Data Engineer,Male,Wipro
+217810.75,Doctoral degree,Software Engineer,Male,HCL Technologies
+217572.43,Doctoral degree,Other,Male,Vedanta
+217342.95,Master's degree,Data Scientist,Male,Tata Motors
+217144,Master's degree,Data Scientist,Male,UltraTech Cem.
+216981.27,Master's degree,Data Scientist,Male,Asian Paints
+216724.17,Master's degree,Product/Project Manager,Male,Power Grid Corpn
+216418.73,Master's degree,Product/Project Manager,Male,GAIL (India)
+216270.8,Master's degree,Business Analyst,Male,Avenue Super.
+216176.09,Master's degree,Data Analyst,Male,Titan Company
+215799.48,Master's degree,Software Engineer,Male,JSW Steel
+215413.23,Master's degree,Software Engineer,Female,Grasim Inds
+215396.5,Master's degree,Other,Male,Tata Steel
+215355.11,Master's degree,Other,Male,Eicher Motors
+215318.2,Bachelor's degree,Data Scientist,Male,Nestle India
+215180.75,Bachelor's degree,Data Scientist,Male,Godrej Consumer
+214988.68,Bachelor's degree,Data Scientist,Male,Yes Bank
+214988.68,Bachelor's degree,Product/Project Manager,Male,Hero Motocorp
+214988.68,Bachelor's degree,Software Engineer,Male,
+214955.6,Professional degree,Product/Project Manager,Male,GAIL (India)
+214944.74,Professional degree,DBA/Database Engineer,Male,Avenue Super.
+214852.45,Doctoral degree,Data Scientist,Male,Titan Company
+214815.91,Doctoral degree,Other,Male,JSW Steel
+214185.09,Master's degree,Data Scientist,Male,Grasim Inds
+214156.8,Master's degree,Data Scientist,Male,Tata Steel
+213860.61,Master's degree,Data Scientist,Male,Eicher Motors
+213735.62,Master's degree,Data Scientist,Male,Nestle India
+213659.46,Master's degree,Product/Project Manager,Male,Godrej Consumer
+213537.88,Master's degree,Product/Project Manager,Male,Yes Bank
+212951.48,Master's degree,Data Analyst,Male,Hero Motocorp
+212857.66,Master's degree,Data Analyst,Male,
+212837.73,Master's degree,Data Engineer,Male,
+212705.52,Master's degree,Data Engineer,Male,GAIL (India)
+212650.2,Master's degree,Software Engineer,Male,Avenue Super.
+212179.09,Master's degree,Software Engineer,Male,Titan Company
+211710.05,Master's degree,Other,Male,JSW Steel
+211596.24,Master's degree,Other,Male,Grasim Inds
+210821.61,Master's degree,Other,Male,Tata Steel
+210635.36,Master's degree,Other,Female,Eicher Motors
+210578.32,Bachelor's degree,Data Scientist,Male,Nestle India
+210404.57,Bachelor's degree,Data Scientist,Male,Godrej Consumer
+210076.88,Bachelor's degree,Data Scientist,Male,Yes Bank
+209889.47,Bachelor's degree,Data Scientist,Male,Hero Motocorp
+209805.64,Bachelor's degree,Data Scientist,Male,
+209762.44,Bachelor's degree,Product/Project Manager,Male,
+209716.56,Bachelor's degree,Business Analyst,Male,GAIL (India)
+209640.87,Bachelor's degree,Statistician,Male,Avenue Super.
+209386.43,Bachelor's degree,Data Analyst,Male,Titan Company
+209304.53,Bachelor's degree,DBA/Database Engineer,Male,JSW Steel
+209213.81,Bachelor's degree,Software Engineer,Male,Grasim Inds
+209069.99,Bachelor's degree,Software Engineer,Male,Tata Steel
+209044.19,Bachelor's degree,Software Engineer,Male,Eicher Motors
+208909.76,Bachelor's degree,Other,Male,Nestle India
+208742.56,Professional degree,Data Scientist,Male,Godrej Consumer
+208703.72,Professional degree,Data Scientist,Male,Yes Bank
+208385.64,Professional degree,Product/Project Manager,Male,Hero Motocorp
+208337.48,Professional degree,Product/Project Manager,Male,
+208243.12,Professional degree,Product/Project Manager,Male,
+208208.63,Professional degree,Data Analyst,Male,GAIL (India)
+208022.9,Professional degree,Data Engineer,Male,Avenue Super.
+207874.94,Professional degree,Software Engineer,Male,Titan Company
+207855.52,Professional degree,Other,Male,JSW Steel
+207815.63,Doctoral degree,Research Scientist,Male,Grasim Inds
+207798.79,Doctoral degree,Research Scientist,Male,Tata Steel
+207707.76,Doctoral degree,Software Engineer,Female,Eicher Motors
+207703.2,Doctoral degree,Other,Male,Nestle India
+207699.73,Doctoral degree,Other,Male,Godrej Consumer
+207300.14,Master's degree,Data Scientist,Male,Yes Bank
+207277.85,Master's degree,Data Scientist,Male,Hero Motocorp
+207220.74,Master's degree,Data Scientist,Female,GIIT Solutions
+207087.03,Master's degree,Data Scientist,Male,GIIT Solutions
+206975.81,Master's degree,Product/Project Manager,Male,GIIT Solutions
+206800.28,Master's degree,Product/Project Manager,Male,GAIL (India)
+206769.39,Master's degree,Product/Project Manager,Male,Avenue Super.
+206752,Master's degree,Business Analyst,Male,Titan Company
+206704.63,Master's degree,Business Analyst,Male,JSW Steel
+206702.36,Master's degree,Business Analyst,Female,Grasim Inds
+206520.09,Master's degree,Business Analyst,Male,Tata Steel
+206361.14,Master's degree,Business Analyst,Male,Eicher Motors
+206342.24,Master's degree,Data Analyst,Male,Nestle India
+205857.89,Master's degree,Data Engineer,Male,Godrej Consumer
+205710.89,Master's degree,Data Engineer,Female,Yes Bank
+205704.3,Master's degree,Data Engineer,Male,Hero Motocorp
+205609.58,Master's degree,Software Engineer,Male,GIIT Solutions
+205464.31,Master's degree,Software Engineer,Male,GIIT Solutions
+205190.72,Master's degree,Software Engineer,Male,GAIL (India)
+204865.21,Bachelor's degree,Research Scientist,Male,Avenue Super.
+204594.63,Bachelor's degree,Research Scientist,Male,Titan Company
+204575.09,Bachelor's degree,Data Scientist,Male,JSW Steel
+204547.86,Bachelor's degree,Data Scientist,Male,Grasim Inds
+204417.78,Bachelor's degree,Data Scientist,Male,Tata Steel
+204281.88,Bachelor's degree,Data Scientist,Male,Eicher Motors
+204242.2,Bachelor's degree,Data Scientist,Male,Nestle India
+204233.91,Bachelor's degree,Product/Project Manager,Male,Godrej Consumer
+203957.66,Bachelor's degree,Product/Project Manager,Female,Yes Bank
+203860.34,Bachelor's degree,Business Analyst,Male,Hero Motocorp
+203785.86,Bachelor's degree,Data Analyst,Male,GIIT Solutions
+203450,Bachelor's degree,Software Engineer,Male,GIIT Solutions
+203406.27,Bachelor's degree,Software Engineer,Male,GAIL (India)
+203260.33,Bachelor's degree,Software Engineer,Male,Avenue Super.
+203107.58,Bachelor's degree,Software Engineer,Male,Titan Company
+203023.05,Professional degree,Data Scientist,Male,JSW Steel
+202866.44,Professional degree,Product/Project Manager,Male,Grasim Inds
+202852.67,Professional degree,Data Analyst,Male,Tata Steel
+202724.04,Professional degree,Software Engineer,Male,Eicher Motors
+202723.58,Professional degree,Other,Male,Nestle India
+202714.92,Professional degree,Other,Male,Godrej Consumer
+202433.9,I prefer not to answer,Research Scientist,Male,Yes Bank
+202426.74,Doctoral degree,Research Scientist,Male,Hero Motocorp
+202348.81,Doctoral degree,Research Scientist,Male,GIIT Solutions
+202333.25,Doctoral degree,Data Scientist,Male,GIIT Solutions
+202326.65,Doctoral degree,Data Scientist,Female,GAIL (India)
+202324.42,Doctoral degree,Business Analyst,Female,Avenue Super.
+202231.49,Doctoral degree,Data Analyst,Male,Titan Company
+202157.1,Doctoral degree,Other,Male,JSW Steel
+202013.18,Master's degree,Research Scientist,Male,Grasim Inds
+201996.62,Master's degree,Research Scientist,Male,Tata Steel
+201703.44,Master's degree,Data Scientist,Male,Eicher Motors
+201621.69,Master's degree,Data Scientist,Male,Nestle India
+201577.7,Master's degree,Data Scientist,Male,Godrej Consumer
+201351.14,Master's degree,Data Scientist,Male,Yes Bank
+201344,Master's degree,Data Scientist,Male,Hero Motocorp
+201277.12,Master's degree,Product/Project Manager,Male,GIIT Solutions
+201244.92,Master's degree,Product/Project Manager,Male,GIIT Solutions
+201117.78,Master's degree,Product/Project Manager,Male,GAIL (India)
+200820.35,Master's degree,Product/Project Manager,Male,Avenue Super.
+200811.21,Master's degree,Business Analyst,Male,Titan Company
+200675.13,Master's degree,Business Analyst,Male,JSW Steel
+200515.38,Master's degree,Business Analyst,Male,Grasim Inds
+200487.74,Master's degree,Statistician,Male,Tata Steel
+200461.01,Master's degree,Data Analyst,Male,Eicher Motors
+200460.97,Master's degree,Data Analyst,Male,Nestle India
+200374.81,Master's degree,Data Engineer,Male,Godrej Consumer
+200346.16,Master's degree,Software Engineer,Male,Yes Bank
+200336.73,Master's degree,Software Engineer,Male,Hero Motocorp
+200275.43,Master's degree,Software Engineer,Male,GIIT Solutions
+200185.96,Master's degree,Other,Male,GIIT Solutions
+200176.68,Master's degree,Other,Female,GIIT Solutions
+199931.13,Master's degree,Other,Male,Reliance Inds.
+199862.48,Bachelor's degree,Data Scientist,Male,TCS
+199765.74,Bachelor's degree,Data Scientist,Male,HDFC Bank
+199761.97,Bachelor's degree,Data Scientist,Male,ITC
+199753.78,Bachelor's degree,Data Scientist,Male,H D F C
+199719.88,Bachelor's degree,Data Scientist,Male,Hind. Unilever
+199628.97,Bachelor's degree,Product/Project Manager,Male,Maruti Suzuki
+199540.06,Bachelor's degree,Business Analyst,Male,Infosys
+199498.3,Bachelor's degree,Business Analyst,Male,O N G C
+199471.29,Bachelor's degree,Data Analyst,Male,St Bk of India
+199292.97,Bachelor's degree,DBA/Database Engineer,Male,ICICI Bank
+199207.84,Bachelor's degree,Software Engineer,Male,Kotak Mah. Bank
+199127.59,Bachelor's degree,Software Engineer,Female,Coal India
+199028.18,Bachelor's degree,Software Engineer,Male,Larsen & Toubro
+198884.32,Bachelor's degree,Software Engineer,Male,I O C L
+198777.47,Bachelor's degree,Software Engineer,Male,Bharti Airtel
+198618.21,Bachelor's degree,Software Engineer,Male,Axis Bank
+198466.64,Professional degree,Data Scientist,Male,NTPC
+198462.14,Professional degree,Data Scientist,Male,Sun Pharma.Inds.
+198276.48,Professional degree,Data Scientist,Male,Hind.Zinc
+198246.93,Professional degree,Data Scientist,Male,Wipro
+198164.45,Professional degree,Product/Project Manager,Male,HCL Technologies
+198027.44,Professional degree,Software Engineer,Male,Vedanta
+198005.73,Professional degree,Software Engineer,Male,Tata Motors
+197873.86,Professional degree,Other,Male,UltraTech Cem.
+197827.17,I prefer not to answer,Business Analyst,Male,Asian Paints
+197810.67,I prefer not to answer,Data Analyst,Male,Power Grid Corpn
+197724.5,Doctoral degree,Research Scientist,Female,GAIL (India)
+197453.13,Doctoral degree,Research Scientist,Male,Avenue Super.
+197434.07,Doctoral degree,Data Scientist,Male,Titan Company
+197423.01,Doctoral degree,Statistician,Male,JSW Steel
+197349.04,Doctoral degree,Data Engineer,Male,Grasim Inds
+197270.6,Doctoral degree,Other,Male,Tata Steel
+197233.84,Master's degree,Research Scientist,Male,Eicher Motors
+197133.46,Master's degree,Research Scientist,Male,Nestle India
+197132.12,Master's degree,Data Scientist,Male,Godrej Consumer
+196892.64,Master's degree,Data Scientist,Female,Yes Bank
+196888.39,Master's degree,Data Scientist,Male,Hero Motocorp
+196886.55,Master's degree,Data Scientist,Male,GIIT Solutions
+567595.43,Master's degree,Data Scientist,Male,GIIT Solutions
